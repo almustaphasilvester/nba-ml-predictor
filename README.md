@@ -38,8 +38,9 @@ To use the NBA ML Predictor to make predictions on NBA games, run the predict.py
 
 ```bash
 python predict.py "Golden State Warriors" "Cleveland Cavaliers" "2018-06-03"
-This will output the predicted winner of the game, along with the probability of that team winning.
 ```
+
+This will output the predicted winner of the game.
 
 # Conclusion
 
