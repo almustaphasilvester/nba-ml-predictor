@@ -37,7 +37,7 @@ The NBA ML Predictor uses a Multi-Input Tensorflow classifier to predict the out
 To use the NBA ML Predictor to make predictions on NBA games, run the predict.py script and provide the team names and date of the game as command-line arguments. For example:
 
 ```bash
-python predict.py "Golden State Warriors" "Cleveland Cavaliers" "2018-06-03"
+python predict.py "Golden State Warriors" "Cleveland Cavaliers"
 ```
 
 This will output the predicted winner of the game.
